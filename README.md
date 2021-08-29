@@ -1,2 +1,2 @@
 # PictureBed
-Store Pictures
+Save Pictures
